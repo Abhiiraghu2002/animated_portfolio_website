@@ -1,0 +1,43 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Environment variables
+.env
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Ignore compiled files
+*.out
+*.class
+*.pyc
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
+# Ignore lock files
+package-lock.json
+yarn.lock

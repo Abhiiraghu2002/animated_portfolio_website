@@ -1,0 +1,12 @@
+.image-section{
+    width: 500px;
+    height: 500px;
+    margin-left: 5rem;
+    background-color: orange;
+    border-radius: 50% 69% 90% 61% ;
+    overflow: hidden;
+}
+#image{
+    width: 450px;
+    margin-top: -5rem;
+}
